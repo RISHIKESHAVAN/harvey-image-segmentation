@@ -1,3 +1,8 @@
+# model weights and checkpoints
+code/saved_weights/
+code/saved_models/
+code/checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
