@@ -1,3 +1,5 @@
+## NOTE - THIS REPO IS WIP
+
 # harvey-image-segmentation
 
 The project aims to solve a remote sensing problem using recent deep learning techniques. The main objective is to segment images acquired be a small UAV (sUAV) at the area on Houston, Texas. These images were acquired in order to assess the damages on residential and public properties after Hurricane Harvey. In total, there are 25 categories to segment that are provided below.
