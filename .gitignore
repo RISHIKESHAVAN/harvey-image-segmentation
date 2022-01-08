@@ -2,6 +2,7 @@
 code/saved_weights/
 code/saved_models/
 code/checkpoints/
+code/submissions/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
