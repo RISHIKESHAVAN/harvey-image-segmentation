@@ -1,5 +1,3 @@
-## NOTE - THIS REPO IS WIP
-
 # harvey-image-segmentation
 
 The project aims to solve a remote sensing problem using recent deep learning techniques. The main objective is to segment images acquired be a small UAV (sUAV) at the area on Houston, Texas. These images were acquired in order to assess the damages on residential and public properties after Hurricane Harvey. In total, there are 25 categories to segment that are provided below.
@@ -33,4 +31,6 @@ The project aims to solve a remote sensing problem using recent deep learning te
 
 The task is to design and implement a deep learning model in order to perform the automatic segmentation of such images. The model can be trained using the train images which contain pixel-wise annotations. Using the trained model, a prediction on the test images should be performed.
 
-I used UNet model to perform semantic pixel wise image segmentation. 
+I used UNet model to perform semantic pixel wise image segmentation. While not the only possibility for Deep Learning Semantic Segmentation, a U-Net was selected as they are known to be good at image detection and segmentation problems, and train relatively quickly. I was able to achieve a best accuracy of 67\% on the test data using the trained model. One of the predictions made by the model can be seen below:
+
+![prediction](code/6456_prediction)
