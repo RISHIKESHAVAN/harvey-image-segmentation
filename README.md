@@ -33,4 +33,4 @@ The task is to design and implement a deep learning model in order to perform th
 
 I used UNet model to perform semantic pixel wise image segmentation. While not the only possibility for Deep Learning Semantic Segmentation, a U-Net was selected as they are known to be good at image detection and segmentation problems, and train relatively quickly. I was able to achieve a best accuracy of 67\% on the test data using the trained model. One of the predictions made by the model can be seen below:
 
-![prediction](data/6456_prediction)
+![prediction](data/6456_prediction.png)
